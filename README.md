@@ -28,6 +28,9 @@ I'm a passionate developer with a keen interest in web development and serverles
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+[reach_linkedin]: www.linkedin.com/in/nilavanan-s-a-960b10278
+[reach_gmail]: mailto:sanilavanan2003@gmail.com
+
 <!--
 # Hi, I'm Nilavanan! 👋
 
