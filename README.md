@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
   - Image recognition technologies  
 
 - 💻 **Portfolio:**  
-  Explore my projects and achievements at [my portfolio](https://your-portfolio-link.com).
+  Explore my projects and achievements at [my portfolio](https://portfilo-nila.web.app/).
 
 - 📬 **Contact Me:**  
-  - **Email:** [nilavanan@example.com](mailto:nilavanan@example.com)  
-  - **LinkedIn:** [linkedin.com/in/nilavanan-s-a-960b10278](https://linkedin.com/in/nilavanan-s-a-960b10278)  
+  - **Email:** [nilavanan@example.com](mailto:nilalinuxa4n@gmail.com)  
+  - **LinkedIn:** [linkedin.com/in/nilavanan-s-a-960b10278](https://www.linkedin.com/in/nilavanan/)  
 
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun Fact:** When I’m not coding, I’m exploring serverless architecture innovations or experimenting with creative problem-solving techniques.
