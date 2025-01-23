@@ -89,8 +89,6 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
 ### 🔥 Contribution Streak
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nilavanan-ver-4&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-### 📊 Coding Activity
-![](https://github-readme-stats.vercel.app/api/wakatime?username=nilavanan&theme=radical&hide_border=true)
 
 
 
