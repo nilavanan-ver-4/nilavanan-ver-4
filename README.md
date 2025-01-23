@@ -72,7 +72,7 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
 - Deep Learning - IIT Ropar (Swayam)
 - Advanced Distributed Systems - Swayam
 
-## 📈 GitHub Stats
+
 ## 📈 GitHub Journey & Impact
 
 <div align="center">
