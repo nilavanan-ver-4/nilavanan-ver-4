@@ -74,10 +74,11 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
 
 ## 📈 GitHub Stats
 ![Nilavanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilavanan-ver-4&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-ver-4&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nilavanan-ver-4&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nilavanan-ver-4&color=brightgreen)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=nilavanan-ver-4.nilavanan-ver-4)
+
 
 
 
