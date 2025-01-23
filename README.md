@@ -104,8 +104,8 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white)](https://portfilo-nila.web.app/)
 
 ## 📞 Contact
-- 📧 **Email:** nilalinuxa4n@gmail.com
-- 📱 **Phone:** +91 9688635548
-- 📍 **Location:** Chidambaram, India
+ 📧 **Email:** nilalinuxa4n@gmail.com
+ 📱 **Phone:** +91 9688635548
+ 📍 **Location:** Chidambaram, India
 
 ⭐️ From [nilavanan-ver-4](https://github.com/nilavanan-ver-4)
