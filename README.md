@@ -73,12 +73,27 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
 - Advanced Distributed Systems - Swayam
 
 ## 📈 GitHub Stats
-![Nilavanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilavanan-ver-4&show_icons=true&theme=radical)
+## 📈 GitHub Journey & Impact
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-ver-4&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nilavanan-ver-4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Nilavanan's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-ver-4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="41%"/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nilavanan-ver-4&color=brightgreen)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nilavanan-ver-4&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nilavanan-ver-4&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://komarev.com/ghpvc/?username=nilavanan-ver-4&color=brightgreen&style=flat-square" alt="Profile Views"/>
+</div>
+
+### 🔥 Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nilavanan-ver-4&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+### 📊 Coding Activity
+![Nilavanan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilavanan&theme=radical&hide_border=true)
 
 
 
