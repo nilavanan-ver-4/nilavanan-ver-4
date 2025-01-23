@@ -84,16 +84,13 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
   <img src="https://github-profile-trophy.vercel.app/?username=nilavanan-ver-4&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nilavanan-ver-4&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
-  <img src="https://komarev.com/ghpvc/?username=nilavanan-ver-4&color=brightgreen&style=flat-square" alt="Profile Views"/>
-</div>
+
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nilavanan-ver-4&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=nilavanan-ver-4&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 Coding Activity
-![Nilavanan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilavanan&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=nilavanan&theme=radical&hide_border=true)
 
 
 
