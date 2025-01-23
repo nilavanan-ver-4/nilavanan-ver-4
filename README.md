@@ -8,10 +8,10 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
 - 💼 **Current Role:** Full Stack Developer Intern at Tunelink Networks AI
 
 -🌱 **Currently Learning:**  
-  - AWS Lambda
-  - Advanced Database Technologies
-  - Serverless Architecture
-  - Image recognition technologies  
+    - AWS Lambda
+    - Advanced Database Technologies
+    - Serverless Architecture
+    - Image recognition technologies  
 
 - 💻 **Portfolio:**  
   Explore my projects and achievements at [my portfolio](https://portfilo-nila.web.app/).
