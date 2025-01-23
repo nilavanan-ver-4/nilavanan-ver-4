@@ -88,9 +88,6 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
 
 
 
-## 🏆 Achievements
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)  
 
 
 ## 🔧 Tools I Use
