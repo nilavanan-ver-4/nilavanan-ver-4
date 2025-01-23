@@ -74,6 +74,22 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
 
 ## 📈 GitHub Stats
 ![Nilavanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilavanan-ver-4&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-ver-4&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nilavanan-ver-4&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=nilavanan-ver-4&color=brightgreen)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=nilavanan-ver-4.nilavanan-ver-4)
+
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+
+
 
 ## 🏆 Achievements
 
