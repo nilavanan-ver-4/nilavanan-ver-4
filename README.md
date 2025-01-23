@@ -6,10 +6,11 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
 
 - 🎓 **Education:** B.E in Computer Science (Data Science) at Annamalai University (Nov 2021 - May 2025)
 - 💼 **Current Role:** Full Stack Developer Intern at Tunelink Networks AI
-- 🌱 **Learning:** Advanced Database Technologies, Serverless Architecture
 
-  - 🌱 **Currently Learning:**  
-  - AWS Lambda  
+-🌱 **Currently Learning:**  
+  - AWS Lambda
+  - Advanced Database Technologies
+  - Serverless Architecture
   - Image recognition technologies  
 
 - 💻 **Portfolio:**  
