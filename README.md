@@ -16,8 +16,8 @@ A passionate Database Developer and Full Stack Developer with a strong focus on 
   Explore my projects and achievements at [my portfolio](https://portfilo-nila.web.app/).
 
 - 📬 **Contact Me:**  
-  - **Email:** [nilavanan@example.com](mailto:nilalinuxa4n@gmail.com)  
-  - **LinkedIn:** [linkedin.com/in/nilavanan-s-a-960b10278](https://www.linkedin.com/in/nilavanan/)  
+  - **Email:** [nilalinuxa4n@example.com](mailto:nilalinuxa4n@gmail.com)  
+  - **LinkedIn:** [https://www.linkedin.com/in/nilavanan](https://www.linkedin.com/in/nilavanan/) 
 
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun Fact:** When I’m not coding, I’m exploring serverless architecture innovations or experimenting with creative problem-solving techniques.
