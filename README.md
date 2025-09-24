@@ -1,6 +1,6 @@
 # Hi, I'm Nilavanan S A! 👋
 
-A passionate Database Developer and Full Stack Developer with a strong focus on web technologies and database optimization.
+A passionate Cloud and DevOps Engineer with 1.2 years of experience as a Backend Developer and Business Analyst. Skilled in cloud-native application deployment, CI/CD pipelines, Docker, Kubernetes, and Google Cloud. Strong backend expertise in Python, Django, and PostgreSQL, with hands-on experience in monitoring and observability using Grafana and Prometheus. Passionate about combining backend development and DevOps to deliver secure and automated solutions.
 
 ## 🚀 About Me
 
