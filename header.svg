@@ -1,0 +1,40 @@
+<svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nilavanan S A - Full Stack Developer, Cloud & DevOps, FinTech Enthusiast">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2980"/>
+      <stop offset="100%" stop-color="#26d0ce"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+
+  <!-- Wave 1 -->
+  <g opacity="0.30">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,0" to="-300,0" dur="8s" repeatCount="indefinite"/>
+    <path fill="#ffffff" d="M -300 188 q 75 -24 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 L 1950 240 L -300 240 Z"/>
+  </g>
+
+  <!-- Wave 2 -->
+  <g opacity="0.20">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,0" to="-300,0" dur="12s" repeatCount="indefinite"/>
+    <path fill="#ffffff" d="M -300 204 q 75 -20 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 L 1950 240 L -300 240 Z"/>
+  </g>
+
+  <!-- Wave 3 -->
+  <g opacity="0.15">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-300,0" to="0,0" dur="10s" repeatCount="indefinite"/>
+    <path fill="#ffffff" d="M -300 216 q 75 -16 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 L 1950 240 L -300 240 Z"/>
+  </g>
+
+  <!-- Name -->
+  <text x="600" y="108" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="1">
+    Nilavanan S A
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="150" text-anchor="middle" fill="#e8fbff" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="0.5">
+    Full Stack Developer &#160;|&#160; Cloud &amp; DevOps &#160;|&#160; FinTech Enthusiast
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.3s" fill="freeze"/>
+  </text>
+</svg>

@@ -1,0 +1,28 @@
+<svg viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Expanding Soon to a Global Level">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#26d0ce"/>
+      <stop offset="100%" stop-color="#1a2980"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="150" fill="url(#fbg)"/>
+
+  <!-- Wave 1 (top edge) -->
+  <g opacity="0.28">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,0" to="-300,0" dur="9s" repeatCount="indefinite"/>
+    <path fill="#ffffff" d="M -300 34 q 75 24 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 L 1950 0 L -300 0 Z"/>
+  </g>
+
+  <!-- Wave 2 (top edge) -->
+  <g opacity="0.18">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-300,0" to="0,0" dur="13s" repeatCount="indefinite"/>
+    <path fill="#ffffff" d="M -300 20 q 75 20 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 L 1950 0 L -300 0 Z"/>
+  </g>
+
+  <!-- Text -->
+  <text x="600" y="100" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="1">
+    Expanding Soon to a Global Level
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
