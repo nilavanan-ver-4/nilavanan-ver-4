@@ -179,21 +179,21 @@ A blogging platform featuring user authentication, post management, and admin co
 <!--
   NOTE ON BROKEN IMAGES
   ---------------------
-  The public github-readme-stats.vercel.app instance was shut down after its
-  Vercel sponsorship ended (Dec 2025) and is frequently unreachable, which is
-  why the Stats / Top-Languages / Trophy cards showed as broken icons.
-  The Streak card (streak-stats.demolab.com) still works reliably.
+  The original github-readme-stats.vercel.app instance is now unmaintained and
+  frequently down, which is why the Stats / Top-Languages cards showed as broken
+  icons. They have been switched to github-stats-extended.vercel.app -- the
+  actively-maintained successor fork with the same API and improved stability.
+  The Streak card (streak-stats.demolab.com) is a separate service and works fine.
 
-  For a permanent fix that NEVER breaks, deploy your own instance of
-  github-readme-stats (free) and replace "github-readme-stats.vercel.app"
-  below with your own "*.vercel.app" URL. Setup takes ~5 min:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-  Then add a GitHub PAT as the PAT_1 environment variable on Vercel.
+  If a single public instance ever rate-limits, the bulletproof fix is to
+  self-host: deploy your own free instance on Vercel and swap the domain below,
+  or generate the cards as committed SVGs via a GitHub Action so they never
+  depend on a live service.
 -->
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nilavanan-ver-4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-ver-4&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=nilavanan-ver-4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilavanan-ver-4&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
