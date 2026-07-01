@@ -1,6 +1,6 @@
 <!-- ======================= HEADER BANNER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Nilavanan%20S%20A&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20%7C%20FinTech%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Nilavanan S A"/>
 </div>
 
 <!-- ======================= TYPING ANIMATION ======================= -->
@@ -178,7 +178,7 @@
 
 <!-- ======================= FOOTER BANNER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=140&section=footer&text=Expanding%20Soon%20to%20a%20Global%20Level&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="./footer.svg" width="100%" alt="Expanding Soon to a Global Level"/>
 </div>
 
 <div align="center">
