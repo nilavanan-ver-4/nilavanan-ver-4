@@ -22,9 +22,9 @@
 <br/>
 
 <!-- ======================= ABOUT ME ======================= -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/repository/holy.gif" align="right" width="180" />
+<img src="./profile.jpeg" align="right" width="200" style="border-radius:12px;" alt="Nilavanan S A" />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
 > Passionate **Cloud & DevOps Engineer** and **Full Stack Developer** with **1.2+ years** of experience as a Backend Developer and Business Analyst. I combine backend development with DevOps to deliver secure, automated, and scalable solutions — now expanding into **FinTech**, **AI**, and **Robotics**.
 
@@ -40,11 +40,10 @@
 
 <br clear="right"/>
 
-<!-- ======================= DIVIDER ======================= -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/repository/download.gif" width="100%">
+---
 
 <!-- ======================= TECH STACK ======================= -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -81,11 +80,10 @@
 
 </div>
 
-<!-- ======================= DIVIDER ======================= -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/repository/download.gif" width="100%">
+---
 
 <!-- ======================= PROJECTS ======================= -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Notable Projects
+## Notable Projects
 
 <table>
 <tr>
@@ -112,8 +110,7 @@
 </tr>
 </table>
 
-<!-- ======================= DIVIDER ======================= -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/repository/download.gif" width="100%">
+---
 
 <!-- ======================= GITHUB STATS ======================= -->
 ## 📊 GitHub Analytics
@@ -136,18 +133,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nilavanan-ver-4&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
 </div>
 
-<!-- ======================= DIVIDER ======================= -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/repository/download.gif" width="100%">
+---
 
 <!-- ======================= CERTIFICATIONS ======================= -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Certifications
+## Certifications
 
 - 📘 **SQL for Data Science** — Great Learning
 - 🧠 **Deep Learning** — IIT Ropar (Swayam)
 - 🌐 **Advanced Distributed Systems** — Swayam
 
+---
+
 <!-- ======================= CONTACT ======================= -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
+## Let's Connect
 
 <table>
 <tr>
